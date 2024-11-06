@@ -1,4 +1,4 @@
-# who-has-more-votes
+# who is win electon :P
 a thingie to get the canadate with the most electoral votes from a lot of apis
 
 
